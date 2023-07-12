@@ -1,0 +1,31 @@
+#speech-table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+  }
+  
+  #speech-table th,
+  #speech-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+    vertical-align: middle;
+  }
+  
+  #speech-table th {
+    background-color: #f5f5f5;
+  }
+  
+  #speech-table tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  #speech-table thead tr th{
+    text-align: center;
+  }
+
+  .speech-filter{
+    padding-right: 1rem;
+  }
+
+  
